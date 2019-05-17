@@ -1,0 +1,55 @@
+
+body {
+    background-color: white;
+
+}
+
+.navbar{
+    background: plum;
+}
+
+section{
+    padding: 80px;
+}
+
+#skills{
+    background: lightgray;
+}
+.about-image{
+    width: 404px;
+    height: auto;
+}
+
+.section-heading{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.slide{
+    margin-top:60px;
+}
+
+.d-block{
+    height: 600px;
+}
+ 
+.carousel-caption{
+    top : 350px;
+}
+
+.tech-image{
+    width: 210px;
+    border-radius: 80%;
+
+}
+.portfolio-image{
+    height: 320px;
+}
+
+.mb-5{
+    text-align: center;
+    margin-bottom: 0px !important;
+}
+.footer-copyright{
+    background: plum;
+}
